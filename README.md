@@ -7,3 +7,18 @@ Managing DeFi positions across chains is complex — even simple tasks require j
 
 During the hackathon, we focus on the AI system: the prompt processing, planning, and action simulation. Post-hackathon, we integrate full Web3 support with Starknet and AgentKit.
 
+✅ Key Features for Hackathon Phase
+Natural language to structured task planner
+
+Multi-step breakdown (swap → bridge → LP)
+
+Simulated action flow using AI Starknet Agent Kit or mocks
+
+Modular agent architecture for plug-and-play integrations (BrianAI, Daydreams, etc.)
+
+🚀 Example Prompts
+"Swap 100 DAI for ETH and bridge it to Starknet"
+
+"Put 50% of my USDC into the best Starknet LP and the rest into lending"
+
+"Harvest and compound my liquidity on JediSwap every 12 hours"
